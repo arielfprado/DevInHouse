@@ -45,7 +45,7 @@ function createDivContainer() {
   createLogin();
 
 
-  /* function styleContainer() {
+  function styleContainer() {
     const container = document.getElementById('container');
     container.style.height = '100vh';
     container.style.width = '100vw';
@@ -98,4 +98,4 @@ function createDivContainer() {
     inputPassword.style.border = '3px solid green';
   }
   
-  styleInputs(); */
+  styleInputs();
